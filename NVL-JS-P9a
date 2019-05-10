@@ -7,3 +7,8 @@ var a = [["ciudad,pais"], [4,8], [9,4], [6,5]];
 alert(a[1].length);
 
 // muestra la longitud del segundo elemento de la variable a
+
+var a = [["ciudad,pais"], [4,8], [9,4], [6,5]];
+alert(a[2][1]);
+
+// muestra el valor del tercer elemento y dentro su segundo
