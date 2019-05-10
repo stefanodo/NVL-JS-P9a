@@ -1,9 +1,9 @@
-var a = [["ciudad,pais"], [3,4]]
+var a = [["ciudad,pais"], [4,8], [9,4], [6,5]];
 alert(a.length)
 
 // muestra la longitud de los elementos de la variable a
 
-var a = [["ciudad,pais"], [3,4]];
+var a = [["ciudad,pais"], [4,8], [9,4], [6,5]];
 alert(a[1].length);
 
 // muestra la longitud del segundo elemento de la variable a
