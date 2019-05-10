@@ -1,0 +1,3 @@
+var a = [["ciudad,pais"], [3,4]]
+alert(a.length)
+
